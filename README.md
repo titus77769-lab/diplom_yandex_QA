@@ -23,10 +23,12 @@ pytest -v
 ## Структура
 
 ```
+api_scooter_order_test/
 ├── configuration.py
 ├── data.py
 ├── sender_stand_request.py
 ├── test_create_and_get_order.py
+├── database_tasks.sql            
 ├── requirements.txt
 ├── .gitignore
 └── README.md
