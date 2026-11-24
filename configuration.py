@@ -1,6 +1,6 @@
 # URL тестового стенда Яндекс.Самоката.
 
-URL_SERVICE = "https://a30be1fb-a545-465f-8335-0c828ab552ed.serverhub.praktikum-services.ru/"
+URL_SERVICE = "https://e8cade9f-7401-4cbc-83de-5f83fead14e5.serverhub.praktikum-services.ru/"
 
 # Эндпоинты API
 CREATE_ORDER_PATH = "/api/v1/orders"
